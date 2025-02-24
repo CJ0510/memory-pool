@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "atomic": "cpp"
+    }
+}
